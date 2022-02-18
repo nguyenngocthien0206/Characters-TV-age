@@ -1,0 +1,244 @@
+index,name,birthday,title,characterName,characterYear,characterAge,characterGender,loveInterest
+0,Ben Platt,09/24/1993,The Politician,Payton Hobart,hs senior,,M,"Alice Charles, Astrid Sloan, River Barkley"
+1,Zoey Deutch,11/10/1994,The Politician,Infinity Jackson,hs senior,,F,
+2,Lucy Boynton,01/17/1994,The Politician,Astrid Sloan,hs senior,,F,"Payton Hobart, River Barkley"
+3,Julia Schlaepfer,03/03/1995,The Politician,Alice Charles,hs senior,,F,"Payton Hobart, James Sullivan"
+4,Laura Dreyfuss,08/22/1988,The Politician,McAfee Westbrook,hs senior,,F,Skye Leighton
+5,Theo Germaine,,The Politician,James Sullivan,hs senior,,M,Alice Charles
+6,Rahne Jones,05/04/1987,The Politician,Skye Leighton,hs senior,,NB,McAfee Westbrook
+7,David Corenswet,07/08/1993,The Politician,River Barkley,hs senior,,M,"Astrid Sloan, Payton Hobart"
+8,Ryan J. Haddad,01/03/1992,The Politician,Andrew Cashman,hs senior,,M,
+9,Alexis Bledel,09/16/1981,Gilmore Girls,Rory Gilmore,hs sophomore,,F,Dean Forester
+10,Keiko Agena,10/03/1973,Gilmore Girls,Lane Kim,hs sophomore,,F,
+11,Liza Weil,06/05/1977,Gilmore Girls,Paris Geller,hs sophomore,,F,
+12,Jared Padalecki,07/19/1982,Gilmore Girls,Dean Forester,hs sophomore,,M,Rory Gilmore
+13,Teal Redmann,09/30/1982,Gilmore Girls,Louise Grant,hs sophomore,,F,
+14,Shelly Cole,08/22/1975,Gilmore Girls,Madeline Lynn,hs sophomore,,F,
+15,Chad Michael Murray,08/24/1981,Gilmore Girls,Tristin Dugray,hs sophomore,,M,
+16,Asa Butterfield,04/01/1997,Sex Education,Otis Milburn,,16.0,M,"Maeve Wiley, Lily Iglehart, Ola Nyman"
+17,Ncuti Gatwa,10/15/1992,Sex Education,Eric Effiong,,16.0,M,Adam Groff
+18,Emma Mackey,01/04/1996,Sex Education,Maeve Wiley,,16.0,F,"Otis Milburn, Jackson Marchetti"
+19,Connor Swindells,09/19/1996,Sex Education,Adam Groff,,16.0,M,"Eric Effiong, Aimee Gibbs"
+20,Kedar Williams-Stirling,12/14/1994,Sex Education,Jackson Marchetti,,16.0,M,Maeve Wiley
+21,Aimee Lou Wood,02/03/1995,Sex Education,Aimee Gibbs,,16.0,F,Adam Groff
+22,Tanya Reynolds,11/4/1991,Sex Education,Lily Iglehart,,16.0,F,Otis Milburn
+23,Patricia Allison,12/07/1994,Sex Education,Ola Nyman,,16.0,F,Otis Milburn
+24,Mimi Keene,08/05/1998,Sex Education,Ruby Matthews,,16.0,F,
+25,Simone Ashley,03/30/1995,Sex Education,Olivia Hanan,,16.0,F,
+26,Chaneil Kular,08/20/1999,Sex Education,Anwar,,16.0,M,
+27,Kiernan Shipka,11/10/1999,Chilling Adventures of Sabrina,Sabrina Spellman,,17.0,F,"Harvey Kinkle, Nicholas Scratch"
+28,Ross Lynch,12/29/1995,Chilling Adventures of Sabrina,Harvey Kinkle,hs junior,,M,Sabrina Spelllman
+29,Jaz Sinclair,07/22/1994,Chilling Adventures of Sabrina,Rosalind Walker,hs junior,,F,
+30,Tati Gabrielle,01/24/1996,Chilling Adventures of Sabrina,Prudence Night,hs junior,,F,
+31,Adeline Rudolph,02/10/1995,Chilling Adventures of Sabrina,Agatha,hs junior,,F,
+32,Lachlan Watson,04/12/2001,Chilling Adventures of Sabrina,Theo Putnam,hs junior,,TM,
+33,Gavin Leatherwood,06/07/1994,Chilling Adventures of Sabrina,Nicholas Scratch,hs junior,,M,Sabrina Spellman
+34,Abigail Cowen,03/18/1998,Chilling Adventures of Sabrina,Dorcas,hs junior,,F,
+35,Jahi Di'Allo Winston,11/30/2003,Everything Sucks!,Luke O'Neil,hs freshman,,M,Kate Messner
+36,Peyton Kennedy,01/04/2004,Everything Sucks!,Kate Messner,hs sophomore,,F,Emaline Addario
+37,Quinn Liebling,03/20/2003,Everything Sucks!,Tyler,hs freshman,,M,
+38,Elijah Stevenson,09/12/1998,Everything Sucks!,Oliver,hs senior,,M,Emaline Addario
+39,Rio Mangini,10/06/2002,Everything Sucks!,McQuaid,hs freshman,,M,
+40,Sydney Sweeney,09/12/1997,Everything Sucks!,Emaline Addario,hs junior,,F,"Oliver, Kate Messner"
+41,Abi Brittle,05/26/2000,Everything Sucks!,Leslie,hs sophomore,,F,
+42,Chris Colfer,05/27/1990,Glee,Kurt Hummel,hs sophomore,,M,
+43,Lea Michele,08/29/1986,Glee,Rachel Berry,hs sophomore,,F,Finn Hudson
+44,Kevin McHale,06/14/1988,Glee,Artie Abrams,hs freshman,,M,
+45,Naya Rivera,01/12/1987,Glee,Santana Lopez,hs sophomore,,F,Noah 'Puck' Puckerman
+46,Jenna Ushkowitz,04/28/1986,Glee,Tina Cohen-Chang,hs freshman,,F,
+47,Amber Riley,02/15/1986,Glee,Mercedes Jones,hs sophomore,,F,
+48,Mark Salling,08/17/1982,Glee,Noah 'Puck' Puckerman,hs sophomore,,M,"Quinn Fabray, Santana Lopez"
+49,Heather Morris,02/01/1987,Glee,Brittany S. Pierce,hs sophomore,,F,
+50,Harry Shum Jr.,04/28/1982,Glee,Mike Chang,hs sophomore,,M,
+51,Cory Monteith,05/11/1982,Glee,Finn Hudson,hs sophomore,,M,"Rachel Berry, Quinn Fabray"
+52,Dianna Agron,04/30/1986,Glee,Quinn Fabray,hs sophomore,,F,"Finn Hudson, Noah 'Puck' Puckerman"
+53,Lauren Potter,05/10/1990,Glee,Becky Jackson,hs sophomore,,F,
+54,Finn Wolfhard,12/23/2002,Stranger Things,Michael 'Mike' Wheeler,7th grade,,M,
+55,Millie Bobby Brown,02/19/2004,Stranger Things,Eleven,7th grade,,F,
+56,Gaten Matarazzo,09/08/2002,Stranger Things,Dustin Henderson,7th grade,,M,
+57,Caleb McLaughlin,10/13/2001,Stranger Things,Lucas Sinclair,7th grade,,M,
+58,Natalia Dyer,01/13/1995,Stranger Things,Nancy Wheeler,hs senior,,F,Steve Harrington
+59,Charlie Heaton,02/06/1994,Stranger Things,Jonathon Byers,hs senior,,M,
+60,Joe Keery,04/24/1992,Stranger Things,Steve Harrington,hs senior,,M,Nancy Wheeler
+61,Noah Schnapp,10/03/2004,Stranger Things,Will Byers,7th grade,,M,
+62,Sophia Lillis,02/13/2002,I Am Not Okay With This,Sydney Novak,hs junior,,F,
+63,Wyatt Oleff,07/13/2003,I Am Not Okay With This,Stanley Barber,hs junior,,M,
+64,Sofia Bryant,12/26/1999,I Am Not Okay With This,Dina,hs junior,,F,
+65,Richard Ellis,03/12/1994,I Am Not Okay With This,Brad Lewis,hs junior,,M,
+66,Zachary S. Williams,11/05/1999,I Am Not Okay With This,Rick Berry,hs junior,,M,
+67,Keir Gilchrist,09/28/1992,Atypical,Sam Gardner,hs senior,,M,
+68,Brigette Lundy-Paine,08/10/1994,Atypical,Casey Gardner,hs sophomore,,F,Evan Chapin
+69,Graham Rogers,12/16/1990,Atypical,Evan Chapin,,16.0,M,Casey Gardner
+70,Jenna Boyd,03/04/1993,Atypical,Paige,hs senior,,F,
+71,Colin Ford,09/12/1996,Daybreak,Josh Wheeler,hs junior,,M,"Samaira 'Sam' Dean, KJ"
+72,Alyvia Alyn Lind,07/27/2007,Daybreak,Angelica Green,6th grade,,F,
+73,Sophie Simnett,12/05/1997,Daybreak,Samaira 'Sam' Dean,hs junior,,F,Josh Wheeler
+74,Austin Crute,10/24/1995,Daybreak,Wesley Fists,hs junior,,M,
+75,Cody Kearsley,03/10/1991,Daybreak,Turbo Pokaski,hs senior,,M,
+76,Jeanté Godlock,04/24/1988,Daybreak,Mona Lisa,hs junior,,F,
+77,Gregory Kasyan,04/12/2001,Daybreak,Eli Cardashyan,hs senior,,M,
+78,Charlie Plummer,05/24/1999,Looking for Alaska,Miles 'Pudge' Halter,hs junior,,M,"Alaska Young, Lara Buterskaya"
+79,Kristine Froseth,09/21/1995,Looking for Alaska,Alaska Young,hs junior,,F,"Miles 'Pudge' Halter, Jake"
+80,Denny Love,,Looking for Alaska,Chip 'The Colonel' Martin,hs junior,,M,Sara Bankhead Harbert
+81,Jay Lee,,Looking for Alaska,Takumi Hikohito,hs junior,,M,
+82,Sofia Vassilieva,10/22/1992,Looking for Alaska,Lara Buterskaya,hs junior,,F,Miles 'Pudge' Halter
+83,Landry Bender,08/03/2000,Looking for Alaska,Sara Bankhead Harbert,hs junior,,F,Chip 'The Colonel' Martin
+84,Shailene Woodley,11/15/1991,Secret Life of the American Teenager,Amy Juergens,hs freshman,,F,"Ben Boykewich, Ricky Underwood"
+85,Ken Baumann,08/08/1989,Secret Life of the American Teenager,Ben Boykewich,hs freshman,,M,"Amy Juergens, Adrian Lee"
+86,Daren Kagasoff,09/16/1987,Secret Life of the American Teenager,Ricky Underwood,hs sophomore,,M,Amy Juergens
+87,Francia Raisa,07/26/1988,Secret Life of the American Teenager,Adrian Lee,hs sophomore,,F,"Ben Boykewich, Ricky Underwood, Jack Pappas"
+88,Megan Park,07/24/1986,Secret Life of the American Teenager,Grace Bowman,hs senior,,F,Jack Pappas
+89,Greg Finley,12/22/1984,Secret Life of the American Teenager,Jack Pappas,college freshman,,M,"Grace Bowman, Adrian Lee"
+90,Camille Winbush,02/09/1990,Secret Life of the American Teenager,Lauren Treacy,hs freshman,,F,
+91,Renee Olstead,06/18/1989,Secret Life of the American Teenager,Madison Cooperstein,hs freshman,,F,
+92,Marlo Kelly,,Dare Me,Beth Cassidy,,,F,Addy Hanlon
+93,Herizen Guardiola,07/24/1996,Dare Me,Addy Hanlon,,,F,Beth Cassidy
+94,Alison Thornton,08/14/1999,Dare Me,Tacy Cassidy,hs freshman,,F,
+95,Eliza Taylor,10/24/1989,The 100,Clarke Griffin,,17.0,F,Finn Collins
+96,Thomas McDonell,05/02/1986,The 100,Finn Collins,,17.0,M,"Clarke Griffin, Raven Rayes"
+97,Eli Goree,,The 100,Wells Jaha,,17.0,M,
+98,Marie Avgeropoulos,06/17/1986,The 100,Octavia Blake,,17.0,F,Lincoln
+99,Bob Morley,12/20/1984,The 100,Bellamy Blake,,23.0,M,
+100,Christopher Larkin,10/02/1987,The 100,Monty Green,,16.0,M,
+101,Devon Bostick,11/13/1991,The 100,Jasper Jordan,,16.0,M,
+102,Lindsey Morgan,02/27/1990,The 100,Raven Reyes,,19.0,F,Finn Collins
+103,Richard Harmon,08/18/1991,The 100,John Murphy,,17.0,M,
+104,Ricky Whittle,12/31/1981,The 100,Lincoln,,25.0,M,Octavia Blake
+105,Jarod Joseph,10/09/1985,The 100,Nathan Miller,,18.0,M,
+106,Victor Zinck Jr.,,The 100,Dax,,17.0,M,
+107,Kathryn Newton,02/08/1997,The Society,Allie Pressman,,17.0,F,"Will LeClair, Harry Bingham"
+108,Rachel Keller,12/25/1992,The Society,Cassandra Pressman,,18.0,F,
+109,Jacques Colimon,08/27/1994,The Society,Will LeClair,,17.0,M,"Kelly Aldrich, Allie Pressman"
+110,Alex Fitzalan,04/26/1996,The Society,Harry Bingham,,17.0,M,
+111,Kristine Froseth,09/21/1995,The Society,Kelly Aldrich,,17.0,F,"Harry Bingham, Will LeClair"
+112,Gideon Adlon,03/30/1997,The Society,Becca Gelb,,17.0,F,
+113,Olivia DeJonge,04/30/1998,The Society,Elle Tomkins,,17.0,F,Campbell Eliot
+114,Toby Wallace,06/07/1996,The Society,Campbell Eliot,,18.0,M,Elle Tomkins
+115,José Julián,,The Society,Gordie Moreno,,17.0,M,
+116,Jack Mulhern,,The Society,"Gareth ""Grizz"" Visser",,17.0,M,Sam Eliot
+117,Olivia Nikkanen,11/28/1998,The Society,Gwen Patterson,,17.0,F,Clark
+118,Natasha Liu Bordizzo,08/25/1994,The Society,Helena Wu,,17.0,F,Luke Holbrook
+119,Alex MacNicoll,,The Society,Luke Holbrook,,18.0,M,Helena Wu
+120,Sean Berdy,06/03/1993,The Society,Sam Eliot,,17.0,M,"Gareth ""Grizz"" Visser"
+121,KJ Apa,06/17/1997,Riverdale,Archie Andrews,,18.0,M,
+122,Lili Reinhart,09/13/1996,Riverdale,Betty Cooper,,18.0,F,Jughead Jones
+123,Camila Mendes,06/29/1994,Riverdale,Veronica Lodge,,18.0,F,
+124,Cole Sprouse,08/04/1992,Riverdale,Jughead Jones,,18.0,M,Betty Cooper
+125,Madelaine Petsch,08/18/1994,Riverdale,Cheryl Blossom,,19.0,F,
+126,Dylan Minnette,12/29/1996,13 Reasons Why,Clay Jensen,,16.0,M,
+127,Katherine Langford,04/28/1996,13 Reasons Why,Hannah Baker,,17.0,F,
+128,Christian Navarro,08/21/1991,13 Reasons Why,Tony Padilla,,17.0,M,
+129,Alisha Boe,03/06/1997,13 Reasons Why,Jessica Davis,,16.0,F,"Justin Foley, Alex Baker"
+130,Brandon Flynn,10/11/1993,13 Reasons Why,Justin Foley,,16.0,M,Jessica Davis
+131,Justin Prentice,03/25/1994,13 Reasons Why,Bryce Walker,hs senior,18.0,M,
+132,Miles Heizer,05/16/1994,13 Reasons Why,Alex Standall,,17.0,M,"Jessica Davis, Zach Dempsey"
+133,Ross Butler,05/17/1990,13 Reasons Why,Zach Dempsey,,17.0,M,"Hannah Baker, Alex Standall"
+134,Devin Druid,01/27/1998,13 Reasons Why,Tyler Down,,16.0,M,
+135,Saoirse-Monica Jackson,11/24/1993,Derry Girls,Erin Quinn,5th Year,,F,
+136,Louisa Harlond,01/31/1993,Derry Girls,Orla McCool,,15.0,F,
+137,Jamie Lee O'Donnell,03/04/1987,Derry Girls,Michelle Mallon,5th Year,,F,
+138,Nicola Coughlan,01/09/1987,Derry Girls,Clare Devlin,5th Year,,F,
+139,Dylan Llewellyn,09/10/1992,Derry Girls,James Maguire,5th Year,,M,
+140,Blake Lively,08/25/1987,Gossip Girl,Serena van der Woodsen,,16.0,F,"Dan Humphrey, Nate Archibald"
+141,Leighton Meester,04/09/1986,Gossip Girl,Blair Waldorf,,16.0,F,"Nate Archibald, Chuck Bass"
+142,Penn Badgley,11/01/1986,Gossip Girl,Dan Humphrey,,16.0,M,Serena van der Woodsen
+143,Chace Crawford,07/18/1985,Gossip Girl,Nate Archibald,,16.0,M,"Blair Waldorf, Serena van der Woodsen"
+144,Ed Westwick,06/27/1987,Gossip Girl,Chuck Bass,,16.0,M,"Blair Waldorf, Jenny Humphrey"
+145,Taylor Momsen,07/26/1993,Gossip Girl,Jenny Humphrey,,14.0,F,"Nate Archibald, Chuck Bass"
+146,Jessica Szohr,03/31/1985,Gossip Girl,Vanessa Abrams,,16.0,F,"Nate Archibald, Dan Humphrey"
+147,Emily Alyn Lynd,05/06/2001,Gossip Girl Revival,Audrey Hope,,16.0,F,"Akeno ""Aki"" Menzies"
+148,Jordan Alexander,07/27/1993,Gossip Girl Revival,Julien Calloway,hs junior,,F,"Otto ""Obie"" Bergmann IV"
+149,Thomas Doherty,04/21/1995,Gossip Girl Revival,Max Wolfe,,17.0,M,
+150,Savannah Smith,07/27/2000,Gossip Girl Revival,Monet de Haan,,16.0,F,
+151,Evan Mock,04/08/1997,Gossip Girl Revival,"Akeno ""Aki"" Menzies",,16.0,M,Audrey Hope
+152,Zion Moreno,02/23/1995,Gossip Girl Revival,Luna La,,16.0,F,
+153,Whitney Peak,01/28/2003,Gossip Girl Revival,Zoya Lott,,15.0,F,"Otto ""Obie"" Bergmann IV"
+154,Eli Brown,08/13/1999,Gossip Girl Revival,"Otto ""Obie"" Bergmann IV",,16.0,M,"Zoya Lott, Julien Calloway"
+155,Mia Healey,,The Wilds,Shelby Goodkind,,17.0,F,Toni Shalifoe
+156,Helena Howard,07/23/1998,The Wilds,Nora Reid,,17.0,F,
+157,Erana James,02/17/1999,The Wilds,Toni Shalifoe,,17.0,F,
+158,Sarah Pidgeon,,The Wilds,Leah Rilke,,17.0,F,
+159,Jenna Clause,02/20/1999,The Wilds,Martha Blackburn,,16.0,F,
+160,Sophia Ali,11/07/1995,The Wilds,Fatin Jadmani,,17.0,F,
+161,Shannon Berry,,The Wilds,Dot Campbell,,17.0,F,
+162,Reign Edwards,12/01/1996,The Wilds,Rachel Reid,,17.0,F,
+163,Chase Stokes,09/16/1992,Outer Banks,"John Booker ""John B"" Routledge",,17.0,M,
+164,Madelyn Cline,12/21/1997,Outer Banks,Sarah Cameron,,16.0,F,
+165,Madison Bailey,01/29/1999,Outer Banks,"Kiara ""Kie"" Carrera",,16.0,F,Pope Heyward
+166,Jonathan Daviss,02/28/1999,Outer Banks,Pope Heyward,,16.0,M,"Kiara ""Kie"" Carrera"
+167,Rudy Pankow,08/12/1998,Outer Banks,JJ Maybank,,16.0,M,
+168,Austin North,07/30/1996,Outer Banks,Topper Thornton,,18.0,M,
+169,Drew Starkey,11/04/1993,Outer Banks,Rafe Cameron,,19.0,M,
+170,Diego Tinoco,11/25/1997,On My Block,Cesar Diaz,,14.0,M,
+171,Brett Gray,08/07/1996,On My Block,Jamal Turner,,14.0,M,
+172,Sierra Capri,09/08/1998,On My Block,Monse Finnie,,14.0,F,
+173,Jason Genao,07/03/1996,On My Block,"Ruben ""Ruby"" Martinez",,14.0,M,
+174,Jessica Marie Garcia,03/23/1987,On My Block,Jasmine Flores,,14.0,F,
+175,Maitreyi Ramakrishnan,12/28/2001,Never Have I Ever,Devi Vishwakumar,hs sophomore,,F,"Paxton Hall-Yoshida, Benjamin ""Ben"" Gross"
+176,Darren Barnet,04/27/1991,Never Have I Ever,Paxton Hall-Yoshida,hs junior,,M,Devi Vishwakumar
+177,Jaren Lewison,12/09/2000,Never Have I Ever,"Benjamin ""Ben"" Gross",hs sophomore,,M,Devi Vishwakumar
+178,Lee Rodriguez,11/28/1999,Never Have I Ever,Fabiola Torres,hs sophomore,,F,Eve Hjelm
+179,Ramona Young,05/23/1998,Never Have I Ever,Eleanor Wong,hs sophomore,,F,Oliver Martinez
+180,Benjamin Norris,,Never Have I Ever,Trent Harrison,hs junior,,M,
+181,Christina Kartchner,11/04/1994,Never Have I Ever,Eve Hjelm,hs sophomore,,F,Fabiola Torres
+182,Virginia Gardner,04/18/1995,Runaways,Karolina Dean,,16.0,F,
+183,Lyrica Okano,11/09/1994,Runaways,Nico Minoru,,16.0,F,
+184,Ariela Barer,10/14/1998,Runaways,Gert Yorkes,,16.0,F,
+185,Allegra Acosta,12/12/2002,Runaways,Molly Hayes Hernandez,,15.0,F,
+186,Rhenzy Feliz,10/26/1997,Runaways,Alex Wilder,,17.0,M,
+187,Gregg Sulkin,05/29/1992,Runaways,Chase Stein,,17.0,M,
+188,Daniel Ezra,12/15/1991,All American,Spencer James,,17.0,M,"Kia Williams, Layla Keating, Olivia Baker"
+189,Bre-Z,07/22/1987,All American,"Tamia ""Coop"" Cooper",,17.0,F,Patience Roberts
+190,Greta Onieogou,03/14/1991,All American,Layla Keating,,17.0,F,"Spencer James, Asher Adams"
+191,Samantha Logan,10/27/1996,All American,Olivia Baker,,17.0,F,"Spencer James, Asher Adams"
+192,Michael Evans Behling,05/06/1996,All American,Jordan Baker,,17.0,M,
+193,Cody Christian,04/15/1995,All American,Asher Adams,,17.0,M,"Layla Keating, Olivia Baker"
+194,Zendaya,09/01/1996,Euphoria,Rue Bennett,,17.0,F,
+195,Hunter Schafer,12/31/1998,Euphoria,Jules,,17.0,F,
+196,Jacob Elordi,06/26/1997,Euphoria,Nate Jacobs,,17.0,M,Maddy Perez
+197,Algee Smith,11/7/1994,Euphoria,Chris McKay,,17.0,M,Cassie Howard
+198,Alexa Demie,12/11/1990,Euphoria,Maddy Perez,,17.0,F,Nate Jacobs
+199,Maude Apatow,12/15/1997,Euphoria,Lexi Howard,,16.0,F,
+200,Sydney Sweeney,09/12/1997,Euphoria,Cassie Howard,,17.0,F,Chris McKay
+201,Barbie Ferreira,12/14/1996,Euphoria,"Katherine ""Kat"" Hernandez",,17.0,F,"Daniel, Ethan"
+202,Storm Reid,07/01/2003,Euphoria,Gia Bennett,,15.0,F,
+203,Chad Michael Murray,08/24/1981,One Tree Hill,Lucas Scott,,15.0,M,"Peyton Sawyer, Lindsey Strauss, Brooke Davis, Anna Taggaro, Nicki"
+204,James Lafferty,07/25/1985,One Tree Hill,Nathan Scott,,15.0,M,"Haley James, Peyton Sawyer, Taylor James"
+205,Hilarie Burton,07/01/1982,One Tree Hill,Peyton Sawyer,,15.0,F,"Lucas Scott, Nathan Scott, Julian Baker, Anna Taggaro, Jake Jagielski"
+206,Bethany Joy Lenz,04/02/1981,One Tree Hill,Haley James,,15.0,F,Nathan Scott
+207,Sophia Bush,07/08/1982,One Tree Hill,Brooke Davis,,15.0,F,"Julian Baker, Lucas Scott, Owen Morello, Peyton Sawyer, Chase Adams, Nick Chavez"
+208,Benjamin McKenzie,09/12/1978,The O.C.,Ryan Atwood,hs sophomore,,M,"Taylor Townsend, Marissa Cooper"
+209,Adam Brody,12/15/1979,The O.C.,Seth Cohen,hs sophomore,,M,"Summer Roberts, Anna Stern"
+210,Mischa Barton,01/24/1986,The O.C.,Marissa Cooper,hs sophomore,,F,"Kevin Volchok, Alex Kelly, Ryan Atwood, Luke Ward"
+211,Rachel Bilson,08/25/1981,The O.C.,Summer Roberts,hs sophomore,,F,Seth Cohen
+212,Chris Carmack,12/22/1980,The O.C.,Luke Ward,hs sophomore,,M,Marissa Cooper
+213,Michael Cimino,11/10/1999,"Love, Victor",Victor Salazar,hs sophomore,,M,"Mia Brooks, Benji"
+214,Rachel Naomi Hilson,10/30/1995,"Love, Victor",Mia Brooks,hs sophomore,,F,"Victor Salazar, Andrew Spencer"
+215,Anthony Turpel,01/26/2000,"Love, Victor",Felix Weston,hs sophomore,,M,Lake Meriwether
+216,Bebe Wood,08/08/2001,"Love, Victor",Lake Meriwether,hs sophomore,,F,Felix Weston
+217,Mason Gooding,11/14/1996,"Love, Victor",Andrew Spencer,hs sophomore,,M,Mia Brooks
+218,George Sear,11/14/1997,"Love, Victor",Benji Campbell,,17.0,M,Victor Salazar
+219,Isabella Ferreira,12/20/2002,"Love, Victor",Pilar Salazar,hs freshman,,F,
+220,Brianna Hildebrand,08/14/1996,Trinkets,Elodie Davis,,16.0,F,
+221,Kiana Medeira,11/04/1992,Trinkets,"Maureen ""Moe"" Truax",,16.0,F,Noah Simos
+222,Quintessa Swindell,02/08/1997,Trinkets,Tabitha Foster,,16.0,F,"Brady Finch, Luca Novak"
+223,Brandon Butler,09/11/1996,Trinkets,Brady Finch,,17.0,M,Tabitha Foster
+224,Odiseas Georgiadis,09/21/1996,Trinkets,Noah Simos,,16.0,M,"Maureen ""Moe"" Truax"
+225,Troian Bellisario,10/28/1985,Pretty Little Liars,Spencer Hastings,,16.0,F,"Alex Santiago, Toby Cavanaugh"
+226,Ashley Benson,12/18/1989,Pretty Little Liars,Hanna Marin,,16.0,F,"Caleb Rivers, Sean Ackard, Travis Hobbs"
+227,Lucy Hale,06/14/1989,Pretty Little Liars,Aria Montgomery,,17.0,F,"Ezra Fitz, Noel Kahn, Jake, Jason DiLaurentis"
+228,Shay Mitchell,04/10/1987,Pretty Little Liars,Emily Fields,,16.0,F,"Maya St. Germain, Alison DiLaurentis"
+229,Ian Harding,09/16/1986,Pretty Little Liars,Ezra Fitz,,21.0,M,Aria Montgomery
+230,Sasha Pieterse,02/17/1996,Pretty Little Liars,Alison DiLaurentis,,16.0,F,"Emily Fields, Ezra Fitz"
+231,Bianca Lawson,03/20/1979,Pretty Little Liars,Maya St. Germain,,17.0,F,Emily Fields
+232,Jackson Robert Scott,09/18/2008,Locke & Key,Bode Locke,,10.0,M,
+233,Connor Jessup,06/23/1994,Locke & Key,Tyler Locke,,17.0,M,Jackie Veda
+234,Emilia Jones,02/23/2002,Locke & Key,Kinsey Locke,hs sophomore,,F,"Gabe, Scot Cavendish"
+235,Griffin Gluck,08/24/2000,Locke & Key,Gabe,hs sophomore,,M,Kinsey Locke
+236,Petrice Jones,05/10/1993,Locke & Key,Scot Cavendish,hs junior,,M,Kinsey Locke
+237,Genevieve Kang,,Locke & Key,Jackie Veda,,17.0,F,Tyler Locke
+238,Thomas Mitchell Barnet,,Locke & Key,Sam Lesser,hs junior,,M,
+239,Kevin Alves,10/19/1991,Locke & Key,Javi,hs junior,,M,
+240,Asha Bromfield,11/09/1994,Locke & Key,Zadie Wells,hs junior,,F,
+241,Felix Mallard,04/20/1998,Locke & Key,Lucas Caravaggio,,17.0,M,
+242,Hallea Jones,,Locke & Key,Eden Hawkins,hs junior,,F,
